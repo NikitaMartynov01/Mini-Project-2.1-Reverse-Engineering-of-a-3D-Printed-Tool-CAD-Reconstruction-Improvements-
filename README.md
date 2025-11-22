@@ -81,3 +81,9 @@
 </table>
 </div>
 
+<p align="center">
+  <a href="files/НГ игрушка.cdr">
+    <img src="https://img.shields.io/badge/Download-CDR-green?style=for-the-badge">
+  </a>
+</p>
+
